@@ -10,6 +10,14 @@ The original Oregon Trail game unchanged since 1971. Shared in the May 1978 issu
 
 ## Build
 
+### Python (any platform)
+
+```bash
+python3 python/oregon.py
+```
+
+Requires Python 3.6+
+
 ### FreeBASIC (Windows/Linux)
 
 ```bash
